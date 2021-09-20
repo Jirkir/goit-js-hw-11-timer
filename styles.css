@@ -1,0 +1,38 @@
+span.value {
+    display: block;
+    margin: 0 auto 5px;
+    font-size: 28px;
+    font-weight: 400;
+    color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    /* margin: 5px; */
+    /* background-color: rgb(238, 156, 4); */
+    background-color: rgb(61, 165, 217);
+    box-shadow: 5px 5px 15px -1px rgba(0,0,0,0.38)
+}
+
+.timer {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin: -5px;
+    /* background-color: rgb(144, 169, 85); */
+    background-color: rgb(14, 28, 54);
+}
+
+/* #timer-1 [data-value="days"] {
+
+} */
+
+.field {
+    display: block;
+    text-align: center;
+    margin: 5px;
+}
+
+.label {
+    display: block;
+    color: rgb(61, 165, 217);
+}
